@@ -6,7 +6,7 @@
 #
 #Do NOT ever include your *real* env in version control
 
-MYSQL_DATABASE=dbserver2
+MYSQL_DATABASE=msisdb
 MYSQL_HOST=dbserver2.cnkis2xcs5h5.us-east-2.rds.amazonaws.com
 MYSQL_USER=msisadmin
 MYSQL_PASSWORD=3#dY)\DcB6hHyhd
